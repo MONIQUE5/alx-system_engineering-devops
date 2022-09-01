@@ -1,2 +1,2 @@
 #!/bin/bash
-Print the path name of current working directory
+Change current working directory to user home directory
