@@ -1,2 +1,2 @@
-#1/bin/bash
-working on shell permissions
+#!/bin/bash
+Working on shell permissions
