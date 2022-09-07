@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lRa | find . -type f -empty -print -o -type d -empty -print
