@@ -1,2 +1,0 @@
-#!/bin/bash
-ls -laR | find . -type f -empty -print -o -type d -empty -print
